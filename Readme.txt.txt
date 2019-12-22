@@ -1,4 +1,4 @@
-Owners: Huzefa Dossaji, Sanket Bachuwar, Ardashir Bulsura
+Owners: Sanket Bachuwar, Ardashir Bulsura, Huzefa Dossaji
 CPSC 8810: Motion Planning Final Project Report and Code
 Motion Planning of a Vehicle in a Roundabout Scenario
 
